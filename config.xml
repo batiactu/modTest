@@ -15,10 +15,8 @@
 
     <author href="http://www.batiactugroupe.com" email="webmaster@batiactugroupe.com">Batiactu Groupe</author>
 
-
     <!-- Seulement ces deux plateforme ? -->
     <gap:platform name="android" />
-
 
     <!--
         Enable individual API permissions here.
@@ -101,7 +99,6 @@
         <false/>
     </gap:config-file>
 
-
     <!-- cross origin -->
     <access origin="*" />
 
@@ -121,7 +118,7 @@
     <allow-intent href="http://dev.chiffrage.batiactu.com/*" />
     <allow-intent href="https://chiffrage.batiactu.com/*" />
 
-   
-
-
+    <gap:plugin name="com.vladstirbu.cordova.promise" version="1.0.0" />
+    
+    
 </widget>

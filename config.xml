@@ -117,8 +117,6 @@
     <!-- Allow links to web pages to open in a browser -->
     <allow-intent href="http://dev.chiffrage.batiactu.com/*" />
     <allow-intent href="https://chiffrage.batiactu.com/*" />
-
-    <gap:plugin name="com.vladstirbu.cordova.promise" version="1.0.0" />
     
     
 </widget>

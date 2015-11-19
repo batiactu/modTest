@@ -1,0 +1,13 @@
+/*
+    Theme ou modif spécifiques du module
+*/
+
+#navigation-page {
+    background-color: #f6bd9c
+}
+
+#navigation-page .panel-default > .panel-heading {
+    background-color: #c6ff10;
+}
+
+

@@ -116,8 +116,10 @@
 
     <allow-navigation href="https://chiffrage.batiactu.com/*" />
     <allow-navigation href="http://dev.chiffrage.batiactu.com/*" />
+    <allow-navigation href="http://192.168.3.103/*" />
 
     <!-- Allow links to web pages to open in a browser -->
+    <allow-intent href="http://192.168.3.103/*" />
     <allow-intent href="http://dev.chiffrage.batiactu.com/*" />
     <allow-intent href="https://chiffrage.batiactu.com/*" />
     

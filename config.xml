@@ -110,6 +110,9 @@
 
     <!-- plugin Navigation liste blanche -->
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+    
+    <!-- plugin Implements Indexed Database API -->
+    <gap:plugin name="cordova-plugin-indexeddb" source="npm" />
 
     <allow-navigation href="https://chiffrage.batiactu.com/*" />
     <allow-navigation href="http://dev.chiffrage.batiactu.com/*" />

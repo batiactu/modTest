@@ -28,10 +28,22 @@
             </div>
             
         </div>
+
+        <div class="row">
+            <div class="col-xs-12 btn btn-primary btn-click-event"> Event "deviceready"</div>
+
+        </div>
+
         <div class="row solution-chiffrage">
             <div class="signal"></div>
             <div id="navigation-page" class=""></div>
             <script>
+                jQuery('.btn-click-event').click(function(){
+                    console.log('click event ');
+                    var event = new Event('deviceready');
+                    document.dispatchEvent(event);
+                });
+
                 document.addEventListener('deviceready', function() {
                     jQuery('#navigation-page').load("partials/navigation.html");
                 });

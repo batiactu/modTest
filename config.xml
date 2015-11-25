@@ -7,10 +7,10 @@
         version   = "0.0.1"
         versionCode = "1">
 
-    <name>Module chiffr</name>
+    <name>Module chiffrage</name>
 
     <description>
-        Module chiffrage
+        Module chiffrage test interne
     </description>
 
     <author href="http://www.batiactugroupe.com" email="webmaster@batiactugroupe.com">Batiactu Groupe</author>

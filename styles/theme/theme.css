@@ -3,11 +3,12 @@
 */
 
 #navigation-page {
-    background-color: #f6bd9c
+    background-color: #f6efed
 }
 
 #navigation-page .panel-default > .panel-heading {
-    background-color: #c6ff10;
+    background-color: #ff1330;
+    color: white;
 }
 
 

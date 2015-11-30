@@ -128,7 +128,7 @@
      <gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.3" />
      <gap:plugin name="org.apache.cordova.network-information" version="0.2.13" />
      <!--gap:plugin name="org.apache.cordova.statusbar" version="0.1.9" /-->
-     <gap:plugin name="com.sopjs.cordova.plugin.pdf-viewer" version="0.3.0" />
+     <!-- gap:plugin name="com.sopjs.cordova.plugin.pdf-viewer" version="0.3.0" /-->
 
 
 

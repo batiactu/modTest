@@ -32,7 +32,7 @@
     -->
     <preference name="permissions"                value="none"/>
 
-    <preference name="phonegap-version" value="cli-5.2.0" />
+    <preference name="phonegap-version" value="3.6.3" />
 
     <!-- orientation with possible values default (both), landscape, or portrait -->
     <preference name="orientation" value="default" />

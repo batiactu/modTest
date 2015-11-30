@@ -121,20 +121,20 @@
 
     <!-- Modules utilisé par  isover / placo -->
 
-    <plugin name="nl.x-services.plugins.insomnia" source="pgb" spec="n/a" />
+    <plugin name="nl.x-services.plugins.insomnia" source="pgb" />
 
-    <plugin name="org.apache.cordova.console" source="pgb" spec="n/a" />
+    <plugin name="org.apache.cordova.console" source="pgb"  />
 
-    <plugin name="org.apache.cordova.device" source="pgb" spec="0.2.12" />
+    <plugin name="org.apache.cordova.device" source="pgb" />
 
-    <plugin name="org.apache.cordova.file" source="pgb" spec="n/a" />
+    <plugin name="org.apache.cordova.file" source="pgb" />
 
-    <plugin name="org.apache.cordova.file-transfer" source="pgb" spec="n/a" />
+    <plugin name="org.apache.cordova.file-transfer" source="pgb"  />
 
-    <plugin name="org.apache.cordova.inappbrowser" source="pgb" spec="n/a" />
+    <plugin name="org.apache.cordova.inappbrowser" source="pgb"  />
 
-    <plugin name="org.apache.cordova.network-information" source="pgb" spec="n/a" />
-    
+    <plugin name="org.apache.cordova.network-information" source="pgb"  />
+
      <!--gap:plugin name="org.apache.cordova.statusbar" version="0.1.9" /-->
      <!-- gap:plugin name="com.sopjs.cordova.plugin.pdf-viewer" version="0.3.0" /-->
 

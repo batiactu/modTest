@@ -133,8 +133,8 @@
 
     <plugin name="org.apache.cordova.network-information" source="pgb"  />
 
-     <gap:plugin name="org.apache.cordova.statusbar"  />
-     <gap:plugin name="com.sopjs.cordova.plugin.pdf-viewer" />
+     <gap:plugin name="org.apache.cordova.statusbar" source="npm" />
+     <gap:plugin name="com.sopjs.cordova.plugin.pdf-viewer" source="npm" />
 
 
 

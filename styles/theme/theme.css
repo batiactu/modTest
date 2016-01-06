@@ -7,8 +7,10 @@
 }
 
 #navigation-page .panel-default > .panel-heading {
-    background-color: #ff1330;
-    color: white;
+    background-color: #feffe9;
+    color: green;
 }
 
-
+#navigation-page .btn-primary {
+    background-color: #84c813;
+}

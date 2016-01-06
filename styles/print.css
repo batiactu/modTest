@@ -1,0 +1,25 @@
+
+body#navigation-page {
+    padding-top: 20px;
+}
+
+body#navigation-page .entete .text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+body#navigation-page .recap-param {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body#navigation-page .recap-param {
+    
+}
+
+@media print {
+    .row.ligne-fam {
+        page-break-before: auto;
+    }
+}
+

@@ -2,15 +2,21 @@
     Theme ou modif spécifiques du module
 */
 
+
+/* --- Debut partie spécifique ---  */
+
+/* exemple couleur de fond du module */
 #navigation-page {
-    background-color: #f6efed
+    /*background-color: #e8f6bc*/
 }
 
+/* couleur entete des pannels */
 #navigation-page .panel-default > .panel-heading {
-    background-color: #feffe9;
-    color: green;
+    background-color: #ffe602;
+    color: black;
 }
 
 #navigation-page .btn-primary {
     background-color: #84c813;
+    border: 1px solid #67cc00;
 }
